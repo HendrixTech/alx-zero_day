@@ -1,1 +1,2 @@
-Alx is so cool
+Alx is so cool.
+So am I
